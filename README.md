@@ -268,8 +268,8 @@ Este projeto é propriedade da equipe SIL e está sob licença proprietária.
 
 ## 👥 Contribuidores
 
-- Equipe SIL Development
-- Integração Claude: Manus AI Agent
+- Similar
+- Enzo Bellissimo
 - Arquitetura: Sistema SIL Predictive
 
 ---
